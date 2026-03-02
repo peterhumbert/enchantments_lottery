@@ -1,4 +1,12 @@
-# README.md
+This is a forked repo. See below for the original README.
+
+USFS data is still available via the Wayback Machine. For example: 
+
+- [Main page](https://web.archive.org/web/20250331105701/https://www.fs.usda.gov/detail/okawen/passes-permits/recreation/?cid=fsbdev3_053607)
+- [2024 CSV](https://web.archive.org/web/20250331105701/https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1223231.csv)
+- [2023 PDF](https://web.archive.org/web/20250218225523/https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/fseprd1162873.pdf)
+
+# Original README.md
 
 ## The Enchantment's Lottery
 
